@@ -7,7 +7,12 @@ import org.openqa.selenium.firefox.FirefoxDriver;
 
 public class Twitter {
 	
+	
 	WebDriver dr;
+	
+	public void hello() {
+		
+	}
 	
 	public void openChromeBrowser() {
 		
