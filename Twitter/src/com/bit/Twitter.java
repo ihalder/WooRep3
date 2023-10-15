@@ -7,7 +7,13 @@ import org.openqa.selenium.firefox.FirefoxDriver;
 
 public class Twitter {
 	
+	
 	WebDriver dr;
+	
+	public void hello() {
+		int i = 0;
+		String f = "Hello";
+	}
 	
 	public void openChromeBrowser() {
 		
